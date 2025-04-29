@@ -2,7 +2,28 @@
 
 Hi Dear! I'm currently a Master's degree student in Business Informatics at Gdańsk University of Technology, with a passion for Data Science, Machine Learning, and Python programming. I am looking for opportunities in data science internships in Poland to apply my skills and further enhance my knowledge.
 
-![Profile Image](https://example.com/your-profile-image.jpg)  <!-- Add your profile image URL -->
+---
+
+## 💻 Technologies I Work With
+
+<!-- Python GIF -->
+<img src="https://media.giphy.com/media/9vKrd9ApTIC5dGOTNj/giphy.gif" width="70" alt="Python" />
+
+<!-- GitHub GIF -->
+<img src="https://media.giphy.com/media/Ju7lJ7aHS5YxK/giphy.gif" width="70" alt="GitHub" />
+
+<!-- SQL Server GIF -->
+<img src="https://media.giphy.com/media/QytRgJz52mrz6/giphy.gif" width="70" alt="SQL Server" />
+
+<!-- Jenkins GIF -->
+<img src="https://media.giphy.com/media/Z1VLB7prhtFvM/giphy.gif" width="70" alt="Jenkins" />
+
+<!-- Tableau GIF -->
+<img src="https://media.giphy.com/media/5K4j3mHZs5WqM/giphy.gif" width="70" alt="Tableau" />
+
+<!-- Excel GIF -->
+<img src="https://media.giphy.com/media/k5QzH1EcdAHkA/giphy.gif" width="70" alt="Excel" />
+
 
 ---
 
