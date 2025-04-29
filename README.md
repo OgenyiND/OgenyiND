@@ -1,15 +1,11 @@
-# 🌟 [Ogenyi Ikenna] - Data Science & Business Informatics Enthusiast
-
-Hi Dear! I'm currently a Master's degree student in Business Informatics at Gdańsk University of Technology, with a passion for Data Science, Machine Learning, and Python programming. I am looking for opportunities in data science internships in Poland to apply my skills and further enhance my knowledge.
-
+# 🌟 [Ogenyi Ikenna] - Data Science Enthusiast, Machine Learning, Deep Learning and A.I
 ---
-![download](https://github.com/user-attachments/assets/c7e4764d-03bb-440f-9a76-b030425cc1a4)
+![download](https://github.com/user-attachments/assets/c7e4764d-03bb-440f-9a76-b030425cc1a4) 
+![th](https://github.com/user-attachments/assets/9bac1bc3-826f-49d1-802e-0f989b73ddf6) 
 ![download](https://github.com/user-attachments/assets/40e1990e-49f2-4342-b4a1-c48df74df952)
 ![download](https://github.com/user-attachments/assets/89d94039-861d-4f3b-ae97-e00e66fbb383)
-![download](https://github.com/user-attachments/assets/3598ffd2-de29-42a1-854e-56e8897cbc0b)
+![download](https://github.com/user-attachments/assets/fba50654-a95c-4905-a09e-cb7d75d680cd)
 ---
-
-
 ## 📚 Education
 **Master's in Business Informatics**  
 Gdańsk University of Technology | Expected Graduation: 2026
